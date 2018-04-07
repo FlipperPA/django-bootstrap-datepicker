@@ -1,6 +1,6 @@
 # django-bootstrap-datetimepicker
 
-This package includes a Django widget for displaying date pickers with Bootstrap 3 or Bootstrap 4. It uses [Bootstrap datepicker widget version 1.6.4 ](https://github.com/uxsolutions/bootstrap-datepicker).
+This package includes a Django widget for displaying date pickers with Bootstrap 3 or Bootstrap 4. It uses [Bootstrap datepicker widget version 1.8.0](https://github.com/uxsolutions/bootstrap-datepicker).
 
 ## Install
 
